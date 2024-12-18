@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a982efd-ff87-4986-904b-ef340d4308d4) ![image](https://github.com/user-attachments/assets/41b1ff55-7697-456e-a262-2e14481ad469)  ![image](https://github.com/user-attachments/assets/5df65f80-6a9a-445b-95eb-80851b646646)
+![image](https://github.com/user-attachments/assets/8a982efd-ff87-4986-904b-ef340d4308d4)   ![image](https://github.com/user-attachments/assets/41b1ff55-7697-456e-a262-2e14481ad469)  
 
 
 # Simple-Chatbot
